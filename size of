@@ -1,0 +1,8 @@
+#include<iostream>
+using namespace std;
+int main(){
+	int byte, bit, word;
+	cout<<sizeof(byte)<<byte<<"\n";
+	cout<<sizeof(bit)<<byte<<"\n";
+	cout<<sizeof(word)<<byte<<"\n";
+			}
